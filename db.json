@@ -30,13 +30,6 @@
             "email": "an@gmail.com",
             "password": "ankita3",
             "role": "doctor"
-        },
-        {
-            "id": 2,
-            "username": " Dr. Ankita",
-            "email": "a@gmail.com",
-            "password": "ankita",
-            "role": "user"
         }
     ]
 }
